@@ -4,7 +4,7 @@
       <th>No</th>
       <th>Name</th>
       <th>Description</th>
-      <th style="width: 120px;">Source Code</th>
+      <th style="width: 160px;">Source Code</th>
     </tr>
   </thead>
   <tbody>
